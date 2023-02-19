@@ -9,6 +9,8 @@ tags:
   - CSS Property
   - Reference
 translation_of: Web/CSS/gap
+l10n:
+  sourceCommit: 7dea2fa2c2562a8f441dfca779a08ae363334a13
 ---
 {{CSSRef}}
 
