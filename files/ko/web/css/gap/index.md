@@ -1,5 +1,5 @@
 ---
-title: gap (grid-gap)
+title: gap
 slug: Web/CSS/gap
 tags:
   - CSS
