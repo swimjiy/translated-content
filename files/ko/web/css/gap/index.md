@@ -18,6 +18,8 @@ translation_of: Web/CSS/gap
 
 {{EmbedInteractiveExample("pages/css/gap.html")}}
 
+`grid-gap` 은 해당 속성의 별칭입니다.
+
 ## 구문
 
 ```css
