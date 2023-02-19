@@ -48,6 +48,8 @@ gap: calc(20px + 10%) calc(10% - 5px);
 /* 전역 값 */
 gap: inherit;
 gap: initial;
+gap: revert;
+gap: revert-layer;
 gap: unset;
 ```
 
