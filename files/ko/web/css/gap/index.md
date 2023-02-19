@@ -133,12 +133,6 @@ gap: unset;
 
 #### CSS
 
-```css hidden
-#grid {
-  grid-gap: 20px 5px;
-}
-```
-
 ```css
 #grid {
   display: grid;
